@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924577108940",
+    "project_id": "themindguardian-c90ba",
+    "storage_bucket": "themindguardian-c90ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924577108940:android:277c1c084cbdcad04c8369",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924577108940-agdpg05o8qrkdgc0d278bnf081qtkesi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_login",
+            "certificate_hash": "72c9101bb1eca003b15e53a527c376c5ca713192"
+          }
+        },
+        {
+          "client_id": "924577108940-rpnovkjfg5vi6aopcrnquie0kl6uldqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEG3HNO3XjVqhHpaD9L46IGiigOY6k_II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924577108940-rpnovkjfg5vi6aopcrnquie0kl6uldqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
