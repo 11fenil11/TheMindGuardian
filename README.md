@@ -19,17 +19,25 @@ Mental Health has become a very serious issue in today’s life. Excessive of me
 
 ## Proposed Methodology and Block Diagram
 
+![Methodology](Methodology.jpg)
+
 ## Results and Findings
 
 In Twitter Sentiment Analysis, we implemented 4 machine learning models. After analyzing their performance Logistic Regression performed the best.
 
+![Table](https://github.com/11fenil11/TheMindGuardian/blob/main/Table%201.PNG)
+
 In Brain Tumor Detection, we initiated with Vgg16, InceptionV3 and Resnet50 model. Among these, Vgg16 gave the best results and to enhance its accuracy we further used transfer learning method. 
+
+![Graph](https://github.com/11fenil11/TheMindGuardian/blob/main/Pic%202.PNG)
 
 Furthermore, by advancing our research we worked on another 3 highly dense models such as ResNext50, FPN and Vanilla Unet. We have observed that resNext50 performed best with accuracy of 91% as it introduced a new hyperparameter cardinality which provides better fitting to model rather than by going deeper or wider. It has only one such hyper parameter to adjust. 
 
+![Graph](https://github.com/11fenil11/TheMindGuardian/blob/main/Pic%203.PNG)
 
 After all implementations, accuracy of all 6 models of Brain tumor detection are as follows.
 
+![Graph](https://github.com/11fenil11/TheMindGuardian/blob/main/Pic%204.PNG)
 
 ## Conclusions
 
